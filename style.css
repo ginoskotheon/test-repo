@@ -1,0 +1,16 @@
+body {
+  background: gray;
+
+}
+
+.page-home {
+  position: relative;
+}
+.page-title {
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  margin-top: 200px;
+  /*margin-left: -200px;*/
+  position: absolute;
+}
